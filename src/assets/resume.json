@@ -1,0 +1,323 @@
+{
+  "basics": {
+    "name": "Vamsi Ram Nagothi",
+    "label": "VueJS | Angular 2+ | SvelteJS | ReactJS | React Native | GraphQL | WebRTC | Go | Micro frontends | Node JS  | Docker | Git | AWS | Cypress | Playwright | JEST",
+    "picture": "",
+    "email": "",
+    "website": "https://github.com/vamsi467]",
+    "summary": "A passionate Engineer, Tech Enthusiast, Author and Speaker from Vijayawada India • Designed Micro DB Architecture to accommodate storing data from various sources. • Designed an end to end chat and calling using WebRTC and agora • Developed a large app with Micro Front-end Architecture • Optimized data tables by replacing them with grid systems • Designed branching strategy to deliver customization without modifying the core product • Built component libraries from scratch in Angular and Vue • Designed caching systems to deliver large data sets without any latency • Integrated over 30 tools via rest API’s into one of the products",
+    "location": {
+      "address": "",
+      "postalCode": "521245",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "company": "Liminal - Custody Solutions at Coinfest Asia | Bali | 24-25 AUG'23",
+      "position": "Senior Software Engineer",
+      "website": "",
+      "startDate": "2023-05-01",
+      "summary": "•\tMigrated legacy code, ensuring smooth transition. •\tContributed to the project's micro services architecture, incorporating NodeJS and MongoDB. •\tAssisted with back-end development using NodeJS, with Docker for containerization. •\tManaged deployments through GitLab CI and utilized AWS for hosting and cloud services.",
+      "highlights": [],
+      "endDate": "2023-08-01"
+    },
+    {
+      "company": "Wurkr®",
+      "position": "Senior Software Engineer",
+      "website": "",
+      "startDate": "2022-01-01",
+      "summary": "Wurkr : A collaborative virtual workspace where users can work, meet, chat and share screen.  •\tContribute in all phases of the development life cycle  •\tMigrate the legacy code  •\tLead the front-end development  •\tContribute to the project architecture  •\tContribute to back-end development when ever necessary",
+      "highlights": [],
+      "endDate": "2023-04-01"
+    },
+    {
+      "company": "Qentelli",
+      "position": "Senior Software Engineer",
+      "website": "",
+      "startDate": "2020-04-01",
+      "summary": "RRS Retail : A product which provides remote monitoring of cash recycling and maintaining machines. •\tWorked as a front end developer. •\tMigrate the code from Angular to React.  •\tOptimized data tables by replacing them with grid systems.  •\tFixed over 700 defects in a span of 3 months.",
+      "highlights": [],
+      "endDate": "2020-10-01"
+    },
+    {
+      "company": "Qentelli",
+      "position": "Senior Software Engineer",
+      "website": "",
+      "startDate": "2020-01-01",
+      "summary": "Associa: Community association and property management system (POC)  •\tBuilt a POC for a client to prove that micro front-end architecture can be used to split a large code base and manage it easily. Also deployments can be made with 0 down time for other features.  •\tLead the front-end effort.",
+      "highlights": [],
+      "endDate": "2020-04-01"
+    },
+    {
+      "company": "Qentelli",
+      "position": "Software Engineer",
+      "website": "",
+      "startDate": "2019-09-01",
+      "summary": "David Jones ITPDE : A project to estimate IT project delivery.  •\tLead the end to end project development  •\tWorked on building services in Node JS.  •\tWrote over 100 API’s in NodeJS  •\tSupported front-end team to use Data Grid in Angular 7",
+      "highlights": [],
+      "endDate": "2019-12-01"
+    },
+    {
+      "company": "Qentelli",
+      "position": "Senior Software Engineer",
+      "website": "",
+      "startDate": "2019-04-01",
+      "summary": "TED : A product to build Agile dashboards on the fly by integrating various tools.  •\tContribute in all phases of the development life cycle.  •\tLead the front-end development.  •\tDesigned Micro db Architecture.  •\tContributed to back-end development when ever necessary.  •\tDesigned branching strategy.  •\tSupported DevOps team to Implement CI\\CD.  •\tWrote over thousand unit test cases.  •\tIntegrated over 30 tools via rest API’s.",
+      "highlights": [],
+      "endDate": "2022-01-01"
+    },
+    {
+      "company": "Wenable Technologies Pvt. Ltd.",
+      "position": "Software Engineer",
+      "website": "",
+      "startDate": "2019-01-01",
+      "summary": "WeGuard Platform is your one-stop solution for all of your Enterprise Mobility Management needs.",
+      "highlights": [],
+      "endDate": "2019-04-01"
+    },
+    {
+      "company": "Tech Mahindra",
+      "position": "Associate Designer",
+      "website": "",
+      "startDate": "2016-06-01",
+      "summary": "•\tContribute in all phases of the development lifecycle •\tWrite well designed, testable, efficient code •\tEnsure designs are in compliance with specifications •\tPrepare and produce releases of software components •\tSupport continuous improvement by investigating alternatives and technologies and presenting these for architectural review •\tCoordinating the workflow between UI developer, Java developer and Database programmer. •\tCooperating with the front-end developer in building the RESTful API. •\tEnsured timely delivery and quality all compliant with the client’s quality processes.",
+      "highlights": [],
+      "endDate": "2017-04-01"
+    }
+  ],
+  "education": [
+    {
+      "institution": "MVR College of Engineering & Technology",
+      "area": "",
+      "studyType": "Bachelor of  Technology",
+      "startDate": "2010-01-01",
+      "gpa": "",
+      "courses": [],
+      "endDate": "2014-01-01"
+    },
+    {
+      "institution": "Sri Chaitanya junior College",
+      "area": "",
+      "studyType": "Associate’s Degree",
+      "startDate": "2008-01-01",
+      "gpa": "",
+      "courses": [],
+      "endDate": "2010-01-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Kubernetes",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "GitHub",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HandsOnTable",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MySQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Single SPA",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Grid Systems",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "React.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Vue.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Vuex",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Vuetify",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Jest",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cypress",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Apollo GraphQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Tailwind CSS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microservices",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Node.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Express.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Express Gateway",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Angular",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Agora",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "React Native",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Laravel",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PHP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MongoDB",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "AngularJS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "TypeScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Object-Oriented Programming (OOP)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Web Services",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "CSS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "jQuery",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Bootstrap",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML5",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Representational State Transfer (REST)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "D3.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Chart.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "CSS 3",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Professional working proficiency"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Limited working proficiency"
+    },
+    {
+      "language": "Telugu",
+      "fluency": "Native or bilingual proficiency"
+    }
+  ]
+}

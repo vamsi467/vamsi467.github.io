@@ -1,3 +1,72 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* Global styles based on Material Design guidelines */
+body {
+  @apply bg-background text-text-primary;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  @apply text-text-primary font-semibold;
+}
+
+h1 {
+  @apply text-4xl;
+}
+
+h2 {
+  @apply text-3xl;
+}
+
+h3 {
+  @apply text-2xl;
+}
+
+h4 {
+  @apply text-xl;
+}
+
+h5 {
+  @apply text-lg;
+}
+
+h6 {
+  @apply text-base;
+}
+
+p {
+  @apply text-text-secondary;
+}
+
+a {
+  @apply text-accent hover:text-accent-light;
+}
+
+button {
+  @apply bg-primary text-white font-medium py-2 px-4 rounded;
+}
+
+button:hover {
+  @apply bg-primary-dark;
+}
+
+input, textarea, select {
+  @apply bg-background-surface text-text-primary border border-divider rounded py-2 px-4;
+}
+
+input:focus, textarea:focus, select:focus {
+  @apply outline-none border-primary;
+}
+
+.alert-warning {
+  @apply bg-warning text-white p-4 rounded;
+}
+
+.alert-error {
+  @apply bg-error text-white p-4 rounded;
+}
+
+.divider {
+  @apply border-t border-divider;
+}
